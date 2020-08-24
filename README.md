@@ -1,4 +1,4 @@
-# <p align="center">️ **Hi! I'm Babatoonday Mattieu** 🎯️🚀️</p>
+# <p align="center">️ Hi! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm **Babatoonday Mattieu** 🎯️🚀️</p>
 
 
 <p align="center">
@@ -32,6 +32,17 @@
 </a>
 
 </br>
+
+<p>&nbsp;</p>
+
+**Languages and Tools:**
+
+<a href="#" alt="javascript"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="typescript"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="nodejs"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="deno"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
