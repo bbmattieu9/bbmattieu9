@@ -1,0 +1,61 @@
+# <p align="center">️ **Hi! I'm Babatoonday Mattieu** 🎯️🚀️</p>
+
+
+<p align="center">
+<a href="https://github.com/bbmattieu9/bbmattieu9/blob/master/LICENCE">
+<img alt="Licence" src="https://img.shields.io/github/license/bbmattieu9/bbmattieu9?color=brightgreen&label=LICENCE&logo=MIT"/>
+</a>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/bbmattieu9/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
+
+
+## 📚 About Me:
+
+- I’m Mattieu, but people call me "tizi." I’m a frontend developer, and I specialize in efficient **Angular** apps that work across all platforms and browsers. I care deeply about building interfaces that are usable and pleasant for the most number of people possible.
+- 🏆 I'm an avid improver. Continuously learning how to make the world better.
+- Right now, I’m excited about the wonderful world of Flutter, while I keep working towards becoming a Angular senior dev. In the following years, I also plan to explore **AI** and create wonderful **AI** systems.
+
+ 🚀 Motto:  **Do More**,  **Stay Hungry** 👨‍🎓️️
+
+---
+
+## 📈 **Github Stats:**
+
+<a href="https://github.com/bbmattieu9">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikNayak024&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/bbmattieu9/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarthikNayak024&layout=compact&theme=blue-green" />
+</a>
+
+</br>
+
+<p>&nbsp;</p>
+
+## ☎️ Contact Me:
+<p align="left">
+<a href = "mailto:bbmattieu9@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/bbmattieu9><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://www.linkedin.com/in/babatunde-matthew-383514187/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+
+<p>&nbsp;</p>
+
+
+
+<!-- ## **Badges:**
+
+</a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+</a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
+
+
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/babatunde-matthew-383514187
+[gmail]: mailto:bbmattieu9@gmail.com "Lets connect through email"
+[github]: https://github.com/bbmattieu9
+[licence]: https://github.com/bbattieu9/bbmattieu9/blob/master/LICENSE
+[twitter]: https://twitter.com/tizicarolcartel
