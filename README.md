@@ -14,9 +14,9 @@
 
 ## 📚 About Me:
 
-- I’m Mattieu, but people call me "tizi." I’m a full stack developer. I specialize in creating efficient apps that work across all platforms and browsers. In the past months, I  have been working as a front-end engineer, building interfaces (with **Angular**) that are usable and pleasant for the most number of people possible for **Sterling Bank HQ**, in **Lagos**, Nigeria.
+- I’m Mattieu, but people call me "tizi." I’m a full stack developer. I specialize in creating efficient apps that work across all platforms and browsers. In the past months, I  have been working as a front-end engineer, building interfaces / digital products (with **Angular**) that are usable, useful and pleasant for the most number of people possible for **Sterling Bank** clients.
 - 🏆 I'm an avid improver, who continuously learning how to make the world better.
-- Right now, I’m excited about the wonderful world of Flutter, while I keep working towards becoming a senior front-end dev. In the following years, I also plan to explore **AI** and create wonderful **AI** systems.
+- Right now, I’m excited about learning and exploring the brilliant world of Flutter, while I keep working towards becoming a senior front-end dev. In the not-too-far future, I   plan to explore **AI** and create wonderful **AI** systems.
 
  🚀 Motto:  **Do More**,  **Stay Hungry** 👨‍🎓️️
 
