@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/bbmattieu9/bbmattieu9/blob/master/LICENCE">
+<a href="https://github.com/bbmattieu9/bbmattieu9/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/bbmattieu9/bbmattieu9?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/bbmattieu9/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
