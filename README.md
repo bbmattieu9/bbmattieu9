@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/bbmattieu9/bbmattieu9/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/MIT/bbmattieu9/bbmattieu9?color=brightgreen&label=LICENCE&logo=MIT"/>
+<img alt="Licence" src="https://img.shields.io/github/license/MIT/bbmattieu9?color=brightgreen&label=LICENCE&logo=MIT"/>
  
 
 </a>
