@@ -16,10 +16,10 @@
 
 ## 📚 About Me:
 
-- My name is Babatoonday Mattieu, you can call me, "**tizi** || just **Mattieu**." I’m a full-stack software developer based in **Lagos**, **Nigeria**. I specialize in creating efficient apps that work across all platforms. In the past months, I  have been working as a front-end engineer, building interfaces / digital products (with **Angular**) that are usable, useful and pleasant for the most number of people possible. 
-Currently I am working on digital solution for a top-rated bank in **Nigeria** to address the  problem of poverty through **education**. 
-- 🏆 I'm an avid improver, who continuously learn new skills to make the world better by creating solutions that addresses either local or global problems, and thereby adding value to human life.
-- Right now, I’m excited about learning and exploring the brilliant world of Flutter, while I keep working towards becoming a senior front-end dev. 
+- My name is Babatoonday Mattieu, you can call me, "**tizi** || just **Mattieu**." I’m a full-stack software developer based in **Lagos**, **Nigeria**. I specialize in creating efficient apps that work across all platforms. In the past months, I  have been working as a front-end engineer on multiple digital solutions for a top-rated bank in **Nigeria**, as part of a software development team to effect a solution to the problem of poverty through **education**. My role is to build interfaces (with **Angular**) that are usable, useful and pleasant for the most number of people possible. 
+
+- 🏆 I'm an avid improver, who continuously learn new skills to make the world better, by creating solutions that addresses either local or global problems, and thereby adding value to human life.
+- Lately in my spare time, i explore the brilliant world of Flutter with the Dart programming language, while I keep working toward transitioning from an intermediate developer into a senior developer. 
 
  🚀 Motto:  **Do More**,  **Stay Hungry** 👨‍🎓️️
 
