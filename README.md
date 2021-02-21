@@ -1,4 +1,4 @@
-# <p align="center">️ Hi! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm **Babatoonday MMattieu** 🎯️🚀️</p>
+# <p align="center">️ Hi! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm **Babatoonday Mattieu** 🎯️🚀️</p>
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 📚 About Me:
 
-- My name is **Babatoonday Mattieu**, I’m a full-stack software developer based in **Lagos**, **Nigeria**. I specialize in creating efficient apps that work across all platforms. In the past months, I  have been working as a front-end engineer on multiple digital solutions for a top-rated bank in **Nigeria**, as part of a software development team to effect a solution to the problem of poverty through **education**. My role is to build interfaces (with **Angular**) that are usable, useful and pleasant for the most number of people possible. 
+- My name is **Babatoonday Mattieu**, I’m a full-stack developer based in **Lagos**, **Nigeria**. I specialize in creating efficient apps that work across all platforms. In the past months, I  have been working as a front-end engineer on multiple digital solutions for a top-rated bank in **Nigeria**, as part of a software development team to effect a solution to the problem of poverty through **education**. My role is to build interfaces (with **Angular**) that are usable, useful and pleasant for the most number of people possible. 
 
 - 🏆 I'm an avid improver, who continuously learn new skills in a bid to create more solutions that addresses either local or global problems, and thereby adding value to human life via problem solving.
 - Lately in my spare time, i explore the brilliant world of **REACT**, while I keep working toward transitioning from an intermediate developer into a senior developer. 
