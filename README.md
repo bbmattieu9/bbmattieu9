@@ -1,14 +1,7 @@
 # <p align="center">️ Hi! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm **Babatoonday Mattieu** 🎯️🚀️</p>
 
 
-<p align="center">
-<a href="https://github.com/bbmattieu9/bbmattieu9/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/bbmattieu9/bbmattieu9?color=MIT&logo=MIT&style=for-the-badge"/>
- 
 
-</a>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/bbmattieu9/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
@@ -27,12 +20,12 @@
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/bbmattieu9">
+<!-- <a href="https://github.com/bbmattieu9">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbmattieu9&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/bbmattieu9/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bbmattieu9&layout=compact&theme=blue-green" />
-</a>
+</a> -->
 
 </br>
 
