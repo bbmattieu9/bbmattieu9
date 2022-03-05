@@ -64,5 +64,5 @@
 [linkedin]: https://www.linkedin.com/in/babatunde-matthew-383514187
 [gmail]: mailto:bbmattieu9@gmail.com "Lets connect through email"
 [github]: https://github.com/bbmattieu9
-[licence]: https://github.com/bbattieu9/bbmattieu9/blob/master/LICENSE
+<!-- [licence]: https://github.com/bbattieu9/bbmattieu9/blob/master/LICENSE -->
 [twitter]: https://twitter.com/tizicarolcartel
